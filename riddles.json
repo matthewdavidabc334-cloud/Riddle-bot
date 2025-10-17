@@ -1,0 +1,582 @@
+[
+  {
+    "question": "What has to be broken before you can use it?",
+    "answer": "An egg"
+  },
+  {
+    "question": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+    "answer": "A candle"
+  },
+  {
+    "question": "What month of the year has 28 days?",
+    "answer": "All of them"
+  },
+  {
+    "question": "What is full of holes but still holds water?",
+    "answer": "A sponge"
+  },
+  {
+    "question": "What question can you never answer yes to?",
+    "answer": "Are you asleep yet?"
+  },
+  {
+    "question": "What is always in front of you but can’t be seen?",
+    "answer": "The future"
+  },
+  {
+    "question": "There’s a one-story house in which everything is yellow. What color are the stairs?",
+    "answer": "There aren’t any—it’s a one-story house"
+  },
+  {
+    "question": "What can you break, even if you never pick it up or touch it?",
+    "answer": "A promise"
+  },
+  {
+    "question": "What goes up but never comes down?",
+    "answer": "Your age"
+  },
+  {
+    "question": "A man who was outside in the rain without an umbrella or hat didn’t get a single hair on his head wet. Why?",
+    "answer": "He was bald"
+  },
+  {
+    "question": "What gets wet while drying?",
+    "answer": "A towel"
+  },
+  {
+    "question": "What can you keep after giving to someone?",
+    "answer": "Your word"
+  },
+  {
+    "question": "I shave every day, but my beard stays the same. What am I?",
+    "answer": "A barber"
+  },
+  {
+    "question": "You see me once in June, twice in November, and not at all in May. What am I?",
+    "answer": "The letter E"
+  },
+  {
+    "question": "I’m light as a feather, yet the strongest person can’t hold me for five minutes. What am I?",
+    "answer": "Your breath"
+  },
+  {
+    "question": "What invention lets you look right through a wall?",
+    "answer": "A window"
+  },
+  {
+    "question": "What goes up and down but doesn’t move?",
+    "answer": "A staircase"
+  },
+  {
+    "question": "If you’re running in a race and you pass the person in second place, what place are you in?",
+    "answer": "Second place"
+  },
+  {
+    "question": "What can you catch but not throw?",
+    "answer": "A cold"
+  },
+  {
+    "question": "I have branches, but no fruit, trunk or leaves. What am I?",
+    "answer": "A bank"
+  },
+  {
+    "question": "What can’t talk but will reply when spoken to?",
+    "answer": "An echo"
+  },
+  {
+    "question": "The more of this there is, the less you see. What is it?",
+    "answer": "Darkness"
+  },
+  {
+    "question": "David’s parents have three sons: Snap, Crackle, and what’s the name of the third son?",
+    "answer": "David"
+  },
+  {
+    "question": "What runs all around a backyard, yet never moves?",
+    "answer": "A fence"
+  },
+  {
+    "question": "What can travel all around the world without leaving its corner?",
+    "answer": "A stamp"
+  },
+  {
+    "question": "What has many keys but can’t open a single lock?",
+    "answer": "A piano"
+  },
+  {
+    "question": "What can fill a room but takes up no space?",
+    "answer": "Light"
+  },
+  {
+    "question": "If you drop me, I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
+    "answer": "A mirror"
+  },
+  {
+    "question": "The more of this you take, the more you leave behind. What am I?",
+    "answer": "Footsteps"
+  },
+  {
+    "question": "People buy me to eat, but never eat me. What am I?",
+    "answer": "A plate"
+  },
+  {
+    "question": "What building has the most stories?",
+    "answer": "The library"
+  },
+  {
+    "question": "What kind of coat is best put on wet?",
+    "answer": "A coat of paint"
+  },
+  {
+    "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "answer": "The letter M"
+  },
+  {
+    "question": "What has words, but never speaks?",
+    "answer": "A book"
+  },
+  {
+    "question": "If two’s company and three’s a crowd, what are four and five?",
+    "answer": "Nine"
+  },
+  {
+    "question": "What begins with T, ends with T, and has T in it?",
+    "answer": "A teapot"
+  },
+  {
+    "question": "What is always moving but never gets tired?",
+    "answer": "A clock"
+  },
+  {
+    "question": "What has one head, one foot, and four legs?",
+    "answer": "A bed"
+  },
+  {
+    "question": "What has a heart that doesn’t beat?",
+    "answer": "An artichoke"
+  },
+  {
+    "question": "What gets sharper the more you use it?",
+    "answer": "Your brain"
+  },
+  {
+    "question": "The more you take away, the bigger I get. What am I?",
+    "answer": "A hole"
+  },
+  {
+    "question": "Where does today come before yesterday?",
+    "answer": "In a dictionary"
+  },
+  {
+    "question": "What has hands but can’t clap?",
+    "answer": "A clock"
+  },
+  {
+    "question": "What goes through cities and fields but never moves?",
+    "answer": "A road"
+  },
+  {
+    "question": "What has a neck but no head?",
+    "answer": "A bottle"
+  },
+  {
+    "question": "What comes down but never goes up?",
+    "answer": "Rain"
+  },
+  {
+    "question": "What has four fingers and a thumb, but is not alive?",
+    "answer": "A glove"
+  },
+  {
+    "question": "What begins and has no end, and is the end of all that begins?",
+    "answer": "Death"
+  },
+  {
+    "question": "What can run but never walks, has a mouth but never talks?",
+    "answer": "A river"
+  },
+  {
+    "question": "What’s black and white and read all over?",
+    "answer": "A newspaper"
+  },
+  {
+    "question": "I have keys but no locks. I have space but no room. You can enter, but you can’t go outside. What am I?",
+    "answer": "keyboard"
+  },
+  {
+    "question": "I’m an odd number. Take away one letter and I become even. What number am I?",
+    "answer": "seven"
+  },
+  {
+    "question": "Forward I am heavy, backward I am not. What am I?",
+    "answer": "ton"
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I?",
+    "answer": "echo"
+  },
+  {
+    "question": "You see a sequence: 1, 11, 21, 1211, 111221... What comes next?",
+    "answer": "312211"
+  },
+  {
+    "question": "I am always hungry and will die if not fed, yet I live on what you leave behind. What am I?",
+    "answer": "fire"
+  },
+  {
+    "question": "What 3 positive numbers give the same result when multiplied and added together?",
+    "answer": "1,2,3"
+  },
+  {
+    "question": "I’m weightless, but you can see me. If you put me in a bucket I make it lighter. What am I?",
+    "answer": "hole"
+  },
+  {
+    "question": "A man pushes his car to a hotel and loses his fortune. Why?",
+    "answer": "monopoly"
+  },
+  {
+    "question": "I have cities but no houses, forests but no trees, and rivers but no water. What am I?",
+    "answer": "map"
+  },
+  {
+    "question": "What disappears as soon as you say its name?",
+    "answer": "silence"
+  },
+  {
+    "question": "Two in a corner, one in a room, zero in a house, but one in a shelter. What is it?",
+    "answer": "r"
+  },
+  {
+    "question": "I can be cracked, made, told, and played. What am I?",
+    "answer": "joke"
+  },
+  {
+    "question": "I am not alive but grow; I don’t have lungs but need air; I don’t have a mouth but water kills me. What am I?",
+    "answer": "fire"
+  },
+  {
+    "question": "If you have me you want to share me; if you share me you don’t have me. What am I?",
+    "answer": "secret"
+  },
+  {
+    "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "answer": "m"
+  },
+  {
+    "question": "The person who makes it sells it. The person who buys it never uses it. The person who uses it never sees it. What is it?",
+    "answer": "coffin"
+  },
+  {
+    "question": "I run all around the backyard, yet never move. What am I?",
+    "answer": "fence"
+  },
+  {
+    "question": "I start with an “e” and end with an “e” but usually contain only one letter. What am I?",
+    "answer": "envelope"
+  },
+  {
+    "question": "If you multiply me by any other number, the answer will always be the same. What number am I?",
+    "answer": "zero"
+  },
+  {
+    "question": "I have lakes with no water, mountains with no stone, and cities with no people. What am I?",
+    "answer": "map"
+  },
+  {
+    "question": "Take off my skin — I won’t cry, but you will. What am I?",
+    "answer": "onion"
+  },
+  {
+    "question": "I am greater than God, more evil than the devil, the poor have me, the rich need me, and if you eat me you’ll die. What am I?",
+    "answer": "nothing"
+  },
+  {
+    "question": "I am always in front of you but can’t be seen. What am I?",
+    "answer": "future"
+  },
+  {
+    "question": "Place me on a table and I’m good, eat me and I’m better, but pour me out and I’m gone forever. What am I?",
+    "answer": "tea"
+  },
+  {
+    "question": "A woman shoots her husband, then holds him underwater for five minutes. Finally she hangs him. But five minutes later they both go out and enjoy dinner. How is this possible?",
+    "answer": "photograph"
+  },
+  {
+    "question": "I have a head, a tail, am brown, and have no legs. What am I?",
+    "answer": "penny"
+  },
+  {
+    "question": "What English word has three consecutive double letters?",
+    "answer": "bookkeeper"
+  },
+  {
+    "question": "Which weighs more: a pound of feathers or a pound of lead?",
+    "answer": "neither"
+  },
+  {
+    "question": "I’m light as a feather, yet the strongest person cannot hold me for more than five minutes. What am I?",
+    "answer": "breath"
+  },
+  {
+    "question": "I am taken before you get me, and given after you lose me. What am I?",
+    "answer": "photograph"
+  },
+  {
+    "question": "Using only addition, how do you add eight 8s to get the number 1000?",
+    "answer": "888+88+8+8+8"
+  },
+  {
+    "question": "What 4-letter word can be written forward, backward or upside down, and can still be read from left to right?",
+    "answer": "noon"
+  },
+  {
+    "question": "I’m found in everything yet visible in none; I bring life but kill by the ton. What am I?",
+    "answer": "water"
+  },
+  {
+    "question": "Two fathers and two sons go fishing. Each catches one fish, yet they bring home only three fish. How?",
+    "answer": "grandfather-father-son"
+  },
+  {
+    "question": "I am the beginning of the end, the end of time and space, the beginning of every end, and the end of every place. What am I?",
+    "answer": "e"
+  },
+  {
+    "question": "What occurs once in a year, twice in a week, and never in a day?",
+    "answer": "letter e"
+  },
+  {
+    "question": "I start small and grow; I can be quick or slow. You can’t catch me, but you can chase me. What am I?",
+    "answer": "shadow"
+  },
+  {
+    "question": "I’m the odd one out: 2, 3, 5, 7, 11, 13, 17, 19, 21. Which number is wrong?",
+    "answer": "21"
+  },
+  {
+    "question": "What English word retains its pronunciation, even after you take away four of its five letters?",
+    "answer": "queue"
+  },
+  {
+    "question": "I have keys but open no locks; I have space but no room; you can enter but can’t go outside. What am I?",
+    "answer": "keyboard"
+  },
+  {
+    "question": "What 5-letter word becomes shorter when you add two letters to it?",
+    "answer": "short"
+  },
+  {
+    "question": "I speak in numbers and can balance both sides; accountants love me. What am I?",
+    "answer": "equation"
+  },
+  {
+    "question": "Two mothers and two daughters went out to eat, everyone ate one slice of pizza, but only three slices were eaten. How is this possible?",
+    "answer": "grandmother-mother-daughter"
+  },
+  {
+    "question": "I can be cracked, made, told, and played. What am I?",
+    "answer": "joke"
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 3, 5, 9, 17, ?",
+    "answer": "33"
+  },
+  {
+    "question": "I’m often served but never eaten. What am I?",
+    "answer": "tennis ball"
+  },
+  {
+    "question": "I turn once, what is out will not get in. I turn again, what is in will not get out. What am I?",
+    "answer": "key"
+  },
+  {
+    "question": "What has a ring but no finger?",
+    "answer": "telephone"
+  },
+  {
+    "question": "A man walks 1 mile south, 1 mile west, and 1 mile north and returns to the same spot. How is this possible?",
+    "answer": "north pole"
+  },
+  {
+    "question": "What can be measured but has no length, width, or height and always moves forward?",
+    "answer": "time"
+  },
+  {
+    "question": "I have holes in my top, bottom and sides. I wear a crown yet I’m kingless. What am I?",
+    "answer": "tooth"
+  },
+  {
+    "question": "What number do you get when you multiply all of the numbers on a telephone keypad?",
+    "answer": "0"
+  },
+  {
+    "question": "I am an odd number. Take away a letter and I become even. What am I?",
+    "answer": "seven"
+  },
+  {
+    "question": "Two coins add to 30 cents and one of them is not a nickel. What are the coins?",
+    "answer": "quarter and nickel"
+  },
+  {
+    "question": "If you have me, you want to share me. If you share me, you no longer have me. What am I?",
+    "answer": "secret"
+  },
+  {
+    "question": "What english word has five letters but becomes shorter when you add two letters to it?",
+    "answer": "short"
+  },
+  {
+    "question": "You see a house with all four sides facing south. A bear walks right past the house. What color is the bear?",
+    "answer": "white"
+  },
+  {
+    "question": "I am taken from a mine and shut in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?",
+    "answer": "pencil lead"
+  },
+  {
+    "question": "What disappears as soon as you say its name?",
+    "answer": "silence"
+  },
+  {
+    "question": "I have lakes with no water, mountains with no stone and cities with no people. What am I?",
+    "answer": "map"
+  },
+  {
+    "question": "What begins with t, ends with t, and has t in it?",
+    "answer": "teapot"
+  },
+  {
+    "question": "I am not alive but I grow; I don’t have lungs but I need air; I don’t have a mouth but water kills me. What am I?",
+    "answer": "fire"
+  },
+  {
+    "question": "A man pushes his car to a hotel and loses his fortune. Why?",
+    "answer": "monopoly"
+  },
+  {
+    "question": "I can be cracked, made, told, and played. What am I?",
+    "answer": "joke"
+  },
+  {
+    "question": "What has cities but no houses, forests but no trees, and water but no fish?",
+    "answer": "map"
+  },
+  {
+    "question": "What 4-letter word can be written forward, backward, or upside down and still read the same?",
+    "answer": "noon"
+  },
+  {
+    "question": "I am the beginning of the end and the end of time and space. I am essential to life but also to the grave. What am I?",
+    "answer": "e"
+  },
+  {
+    "question": "If two’s company and three’s a crowd, what are four and five?",
+    "answer": "nine"
+  },
+  {
+    "question": "What occurs once in a minute, twice in a moment, and never in a thousand years?",
+    "answer": "m"
+  },
+  {
+    "question": "I am always hungry and must always be fed. The finger I touch will soon turn red. What am I?",
+    "answer": "fire"
+  },
+  {
+    "question": "You see a sequence: 2, 3, 5, 9, 17... what is next?",
+    "answer": "33"
+  },
+  {
+    "question": "What number when multiplied by any other number gives the same result?",
+    "answer": "zero"
+  },
+  {
+    "question": "I have a head and a tail but no body. What am I?",
+    "answer": "coin"
+  },
+  {
+    "question": "What goes up and down without moving?",
+    "answer": "staircase"
+  },
+  {
+    "question": "I can be long or short; I can be grown or bought; I can be painted or left bare. What am I?",
+    "answer": "nails"
+  },
+  {
+    "question": "What word becomes shorter when you add two letters to it?",
+    "answer": "short"
+  },
+  {
+    "question": "I am always coming but never arrive. What am I?",
+    "answer": "tomorrow"
+  },
+  {
+    "question": "If you rearrange the letters 'lives' you get 'evils'. What do you get if you rearrange 'silent'?",
+    "answer": "listen"
+  },
+  {
+    "question": "A word I know, six letters it contains, remove one letter and twelve remains. What is it?",
+    "answer": "dozens"
+  },
+  {
+    "question": "I go up and down the stairs without moving. What am I?",
+    "answer": "carpet"
+  },
+  {
+    "question": "What English word retains its pronunciation even after you take away four of its five letters?",
+    "answer": "queue"
+  },
+  {
+    "question": "I fly without wings, I cry without eyes. Wherever I go darkness follows me. What am I?",
+    "answer": "cloud"
+  },
+  {
+    "question": "What five-letter word becomes shorter when you add two letters?",
+    "answer": "short"
+  },
+  {
+    "question": "What has a neck but no head?",
+    "answer": "bottle"
+  },
+  {
+    "question": "I’m first in earth, second in sky, last in ocean, and found in apple pie. What letter am I?",
+    "answer": "e"
+  },
+  {
+    "question": "I have rivers but no water, forests but no trees, and roads but no vehicles. What am I?",
+    "answer": "map"
+  },
+  {
+    "question": "The more you take, the more you leave behind. What am I?",
+    "answer": "footsteps"
+  },
+  {
+    "question": "What belongs to you but other people use it more than you do?",
+    "answer": "your name"
+  },
+  {
+    "question": "You’re in a race and you pass the person in second place. What place are you in?",
+    "answer": "second"
+  },
+  {
+    "question": "What has many keys but opens no locks?",
+    "answer": "piano"
+  },
+  {
+    "question": "I can be cracked, I can be made, I can be told, I can be played. What am I?",
+    "answer": "joke"
+  },
+  {
+    "question": "What gets wetter as it dries?",
+    "answer": "towel"
+  },
+  {
+    "question": "I have four legs in the morning, two at noon, and three in the evening. What am I?",
+    "answer": "human"
+  },
+  {
+    "question": "I am light as a feather, yet even the strongest man cannot hold me for long. What am I?",
+    "answer": "breath"
+  }
+]
